@@ -1,5 +1,9 @@
 <?PHP
 
+function dosyaYaz($yol,$msg_get_queue) {
+	
+};
+
 $dosya = "C:/DEBUG/Trabzon";
 $uzantı = ".txt";
 
@@ -8,7 +12,7 @@ $uzantı = ".txt";
 for ($i = 1; $i <= 20; $i++) {
 	$yeni_yol=$dosya.$i.$uzantı;
     echo $i." - ".$dosya;
-	file_put_contents ($yeni_yol,"61");
+	fwrite ($yeni_yol,"61");
 	echo "\n";
 }
 

@@ -1,8 +1,11 @@
-<?PHP
+<?php
 
-$i = 1;
-while ($i <= 10):
-    echo $i;
-    $i++;
-endwhile;
-?>
+selam_ver('ismail');
+
+function selam_ver($msg) {
+	
+   echo 'Selam! - '.$msg;
+
+}
+
+selam_ver('mustafa');
