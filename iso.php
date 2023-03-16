@@ -12,7 +12,7 @@ $uzantı = ".txt";
 for ($i = 1; $i <= 20; $i++) {
 	$yeni_yol=$dosya.$i.$uzantı;
     echo $i." - ".$dosya;
-	fwrite ($yeni_yol,"61");
+	file_put_contets ($yeni_yol,"61");
 	echo "\n";
 }
 
