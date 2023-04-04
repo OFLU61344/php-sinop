@@ -8,4 +8,5 @@ function selam_ver($msg) {
 
 }
 
+
 selam_ver('mustafa');
