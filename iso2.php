@@ -5,7 +5,6 @@ include("Fonksiyon.php");
 $dosya = "C:/DEBUG/Trabzon";
 $uzantı = ".txt";
 
-
 $deg03 = 0;
 do {
 	echo $deg03++ . " - ".$dosya;
