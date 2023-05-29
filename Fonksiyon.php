@@ -1,6 +1,5 @@
 <?PHP
 
-
 function dosyaYaz($yol,$msg)
 {
 	$resource = fopen($yol,"w+");
