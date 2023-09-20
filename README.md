@@ -14,9 +14,10 @@
 
 |  Komut       |     Açıklama᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼|     Örnek᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼
 | ----:        |        -----:                           |  -----:
-ls -al        | Gizli dizinleri gösterir                | `ls -la`
+ls -al        | Gizli dizinleri gösterir                | `ls -al`
 date|Tarihi gösterir |`date`
 arch | Bilgisayar mimarisini gösterir | `arch`
 cd ~ |Ana dizine gider | `cd ~`
 yum update|Sistemde kurulu olan tüm paketleri günceller  |`yum update` 
  passwd |Kullanıcı parolası değiştirir | `passwd [şifre]`
+du -sh | Dosya boyutu gösterir | `du -sh /home/cliaweb`
