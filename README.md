@@ -21,3 +21,4 @@ cd ~ |Ana dizine gider | `cd ~`
 yum update|Sistemde kurulu olan tüm paketleri günceller  |`yum update` 
  passwd |Kullanıcı parolası değiştirir | `passwd [şifre]`
 du -sh | Dosya boyutu gösterir | `du -sh /home/cliaweb`
+ clear | Terminali Temizler |
