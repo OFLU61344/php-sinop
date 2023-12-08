@@ -8,7 +8,9 @@
 |mkdir         | Dosya oluşturmak için kullanılır|   `mkdir projects`᲼᲼᲼᲼᲼᲼᲼᲼
 |rmdir | Boş bir dizini silmek için kullanılır|   `rmdir projects`᲼᲼᲼᲼᲼᲼᲼᲼
 |vi᲼᲼᲼ |  Dizin içeriğini değiştirmek için kullanılır| `vi Documents`᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼
-|rm᲼᲼    | Dizin silmek için kullanılır| `rm Documents`᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼
+|rm᲼᲼    | Dizin silmek için kullanılır| `rm Documents`᲼᲼᲼᲼
+|top | Bu komut, sistemdeki işlem ve bellek kullanımını canlı olarak gösterir. Çıkmak için q tuşuna basabilirsiniz.|`top`
+᲼᲼᲼᲼᲼᲼
 
 ## Centos
 
